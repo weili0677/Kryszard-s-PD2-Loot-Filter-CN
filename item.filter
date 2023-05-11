@@ -12,12 +12,12 @@ ItemDisplayFilterName[]: 严格过滤(推荐80级以上)
 ItemDisplayFilterName[]: 更严格过滤(Farmer老手使用)
 
 //Show info about current Filter Level in description of Horadric Cube
-ItemDisplay[box FILTLVL=0]: %NAME%{%NAME%%NL%%WHITE%可以在“ZYLPD2设置”里修改%NL%0 - %TAN%显示所有物品%NL%%TAN% Note%WHITE%: Kryszard's PD2 Loot-Filter level:%NL%}
-ItemDisplay[box FILTLVL=1]: %NAME%{%NAME%%NL%%WHITE%可以在“ZYLPD2设置”里修改%NL%1 - %TAN%仅隐藏垃圾物品%NL%%TAN% Note%WHITE%: Kryszard's PD2 Loot-Filter level:%NL%}
-ItemDisplay[box FILTLVL=2]: %NAME%{%NAME%%NL%%WHITE%可以在“ZYLPD2设置”里修改%NL%2 - %TAN%普通过滤(提落提示较多)%NL%%TAN% Note%WHITE%: Kryszard's PD2 Loot-Filter level:%NL%}
-ItemDisplay[box FILTLVL=3]: %NAME%{%NAME%%NL%%WHITE%可以在“ZYLPD2设置”里修改%NL%3 - %TAN%普通过滤(推荐)%NL%%TAN% Note%WHITE%: Kryszard's PD2 Loot-Filter level:%NL%}
-ItemDisplay[box FILTLVL=4]: %NAME%{%NAME%%NL%%WHITE%可以在“ZYLPD2设置”里修改%NL%4 - %ORANGE%严格过滤(推荐80级以上)%NL%%TAN% Note%WHITE%: Kryszard's PD2 Loot-Filter level:%NL%}
-ItemDisplay[box FILTLVL=5]: %NAME%{%NAME%%NL%%WHITE%可以在“ZYLPD2设置”里修改%NL%5 - %RED%更严格过滤(Farmer老手使用)%NL%%TAN% Note%WHITE%: Kryszard's PD2 Loot-Filter level:%NL%}
+ItemDisplay[box FILTLVL=0]: %NAME%{%NAME%%NL%%WHITE%可以在“ZYLPD2设置”里修改%NL%0 - %TAN%显示所有物品%NL%%TAN% 提示%WHITE%: Kryszard的过滤器-过滤等级:%NL%}
+ItemDisplay[box FILTLVL=1]: %NAME%{%NAME%%NL%%WHITE%可以在“ZYLPD2设置”里修改%NL%1 - %TAN%仅隐藏垃圾物品%NL%%TAN% 提示%WHITE%: Kryszard的过滤器-过滤等级:%NL%}
+ItemDisplay[box FILTLVL=2]: %NAME%{%NAME%%NL%%WHITE%可以在“ZYLPD2设置”里修改%NL%2 - %TAN%普通过滤(提落提示较多)%NL%%TAN% 提示%WHITE%: Kryszard的过滤器-过滤等级:%NL%}
+ItemDisplay[box FILTLVL=3]: %NAME%{%NAME%%NL%%WHITE%可以在“ZYLPD2设置”里修改%NL%3 - %TAN%普通过滤(推荐)%NL%%TAN% 提示%WHITE%: Kryszard的过滤器-过滤等级:%NL%}
+ItemDisplay[box FILTLVL=4]: %NAME%{%NAME%%NL%%WHITE%可以在“ZYLPD2设置”里修改%NL%4 - %ORANGE%严格过滤(推荐80级以上)%NL%%TAN% 提示%WHITE%: Kryszard的过滤器-过滤等级:%NL%}
+ItemDisplay[box FILTLVL=5]: %NAME%{%NAME%%NL%%WHITE%可以在“ZYLPD2设置”里修改%NL%5 - %RED%更严格过滤(Farmer老手使用)%NL%%TAN% 提示%WHITE%: Kryszard的过滤器-过滤等级:%NL%}
 
 
 //Gold
